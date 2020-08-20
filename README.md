@@ -18,11 +18,13 @@
 
 
 Hola! I'm Adittya Dey, a Full Stack Developer 🚀 from India and a Pre-Final Year Computer Science & Engg. Undergraduate!
+
+<br />
 <br />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
-**Talking about Personal Stuffs:**
+**Know Me More:**
 
 - 👨🏽‍💻 I’m currently working on [QNotes](https://github.com/adiXcodr/QuickNotes);
 - 🌱 I’m currently learning advanced MongoDB and Express; 
