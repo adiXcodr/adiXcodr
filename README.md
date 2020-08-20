@@ -15,7 +15,7 @@
 
 <br />
 
-Hola! I'm Adittya Dey, a Full Stack Developer 🚀 from India! 
+Hola! I'm Adittya Dey, a Full Stack Developer 🚀 from India and a Pre-Final Year Computer Science & Engg. Undergraduate!
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -25,7 +25,6 @@ Hola! I'm Adittya Dey, a Full Stack Developer 🚀 from India!
 - 🌱 I’m currently learning advanced MongoDB and Express; 
 - 👯 I’m looking to collaborate on [QNotes](https://github.com/adiXcodr/QuickNotesP) 🤝;
 - 🤔 I’m looking for help with Facial Recognition Technology 😭;
-- 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I happen to Sing and Play Guitar!
 - 📫 How to reach me: ichbinadittyadey@gmail.com;
 - 📝[Resume](https://adittyadey.xyz/files/CV_Adittya_Dey.pdf)
@@ -45,5 +44,5 @@ Hola! I'm Adittya Dey, a Full Stack Developer 🚀 from India!
 
 
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=adiXcodr&show_icons=true&hide_border=true)
+![Adittya's github stats](https://github-readme-stats.vercel.app/api?username=adiXcodr&show_icons=true&hide_border=true)
 
