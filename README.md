@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Adittya!](https://adittyadey.xyz) 
+## Hey 👋🏽, I'm [Adittya!](https://adittyadey.xyz) 
 
 <br/>
 
@@ -21,7 +21,7 @@ Hola! I'm Adittya Dey, a Full Stack Developer 🚀 from India and a Pre-Final Ye
 
 <br />
 
-  <img align="right" alt="GIF" src="https://giphy.com/embed/yYSSBtDgbbRzq" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" />
   
 **Know Me More:**
 
