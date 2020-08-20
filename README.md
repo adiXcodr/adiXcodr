@@ -21,7 +21,7 @@ Hola! I'm Adittya Dey, a Full Stack Developer 🚀 from India and a Pre-Final Ye
 
 <br />
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://giphy.com/embed/yYSSBtDgbbRzq" />
   
 **Know Me More:**
 
