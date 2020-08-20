@@ -1,4 +1,4 @@
-## Hey 👋🏽, I'm [Adittya!](https://adittyadey.xyz) 
+<h1>Hey 👋🏽, I'm <a href="https://adittyadey.xyz" target="_blank">Adittya!</a></h1>
 
 <br/>
 
