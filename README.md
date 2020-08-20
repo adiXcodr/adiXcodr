@@ -20,7 +20,6 @@
 Hola! I'm Adittya Dey, a Full Stack Developer 🚀 from India and a Pre-Final Year Computer Science & Engg. Undergraduate!
 
 <br />
-<br />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
