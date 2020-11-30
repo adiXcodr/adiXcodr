@@ -1,4 +1,4 @@
-<h1>Hey 👋🏽, I'm <a href="https://adittyadey.xyz" target="_blank">Adittya!</a></h1>
+<h1>Hey 👋🏽, I'm <a href="https://adiXcodr.github.io" target="_blank">Adittya!</a></h1>
 
 <br/>
 
@@ -25,10 +25,10 @@ Hola! I'm Adittya Dey, a Full Stack Developer 🚀 from India and a Pre-Final Ye
   
 **Know Me More:**
 
-- 👨🏽‍💻 I’m currently working on [QNotes](https://github.com/adiXcodr/QuickNotes);
+- 👨🏽‍💻 I’m currently working on [node-ocr](https://github.com/adiXcodr/node-ocr);
 - 🌱 I’m currently learning advanced MongoDB and Express; 
-- 👯 I’m looking to collaborate on [QNotes](https://github.com/adiXcodr/QuickNotesP) 🤝;
-- 🤔 I’m looking for help with Facial Recognition Technology 😭;
+- 👯 I’m looking to collaborate on [node-ocr](https://github.com/adiXcodr/node-ocr) 🤝;
+- 🤔 I’m looking for help with PDF generation 😭;
 - ⚡️ Fun-Fact: I happen to Sing and Play Guitar!
 - 📫 How to reach me: ichbinadittyadey@gmail.com;
 - 📝[Resume](https://adittyadey.xyz/files/CV_Adittya_Dey.pdf)
